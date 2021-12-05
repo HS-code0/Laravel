@@ -10,6 +10,7 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
+// Laravel 09 課題３ Route::get('xxx','AAAcontroller@bbb')
 
 Route::get('/', function () {
     return view('welcome');
